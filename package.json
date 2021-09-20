@@ -1,5 +1,5 @@
 {
-  "name": "@sphirye/vue-hexagonal",
+  "name": "@sphirye/vue-hexagonal-container",
   "version": "1.0.0",
   "main": "dist/sphirye-vue-hexagonal.ssr.js",
   "browser": "dist/sphirye-vue-hexagonal.esm.js",
