@@ -67,3 +67,11 @@ Use `text` prop to display text in the hexagon component.
 ```vue
 <VueHexagonal text="sus"/>
 ```
+
+## Heptagon
+
+Use `heptagon` prop to display a heptagon instead a hexagon.
+
+```vue
+<VueHexagonal heptagon/>
+```

@@ -13,6 +13,6 @@ export default Vue.extend({
 
 <template>
   <div id="app">
-    <VueHexagonal img="https://static.wikia.nocookie.net/cookierun/images/c/c1/Starfruit_Cookie.png"/>
+    <VueHexagonal width="200px" height="200px" img="https://static.wikia.nocookie.net/cookierun/images/c/c1/Starfruit_Cookie.png"/>
   </div>
 </template>
