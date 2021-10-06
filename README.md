@@ -41,6 +41,9 @@ There's 5 props that vue-hexagonal-container can handle:
  - `width`
  - `height`
  - `text`
+ - `heptagon`
+ - `borderColor`
+ - `backgroundColor`
 
 ## Images 
 
@@ -74,4 +77,23 @@ Use `heptagon` prop to display a heptagon instead a hexagon.
 
 ```vue
 <VueHexagonal heptagon/>
+```
+
+## Border Color
+
+Use `borderColor` prop (while using `outlined` prop) to change the outline color.
+
+```vue
+<VueHexagonal outlined borderColor="#000"/>
+```
+
+
+## Background Color
+
+Use `backgroundColor` prop to change the hexagon content background color.
+
+(Currently dont handle transparency).
+
+```vue
+<VueHexagonal backgroundColor="#000"/>
 ```
