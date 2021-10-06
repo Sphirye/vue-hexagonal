@@ -5,7 +5,7 @@ import { VueHexagonal } from '@/entry.esm'
 export default Vue.extend({
   name: 'ServeDev',
   components: {
-    VueHexagonal,
+    VueHexagonal
   }
 });
 </script>
