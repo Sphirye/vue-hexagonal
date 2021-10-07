@@ -1,6 +1,6 @@
 {
   "name": "@sphirye/vue-hexagonal-container",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "main": "dist/sphirye-vue-hexagonal.ssr.js",
   "browser": "dist/sphirye-vue-hexagonal.esm.js",
   "module": "dist/sphirye-vue-hexagonal.esm.js",
